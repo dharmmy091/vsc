@@ -1,0 +1,46 @@
+h3 {
+    color: brown;
+    text-align: center;
+    font-family: Times New Roman, Times, serif;
+    font-style: italic;
+}
+
+h2 {
+    text-align: center;
+}
+
+h1 {
+    color: orange;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+p {
+    color: burlywood;
+    text-align: center;
+}
+
+ul {
+    font-style: italic;
+}
+
+button {color: green;
+    background-color: yellow;
+    margin-left: 600px;
+    margin-right: 600px;
+    width: 100px;
+    height: 40px;
+    border: 2px solid black;
+    cursor: pointer;
+
+}
+body {
+    background-color: rgb(102, 102, 129);
+  }
+  img {
+    width: 300px;
+    height: 300px;
+    margin-left: 500px;
+    margin-right: 500px;
+  }
+  
